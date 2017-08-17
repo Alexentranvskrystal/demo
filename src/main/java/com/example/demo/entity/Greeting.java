@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.entity;
 
 /**
  * Created by Seven on 2017/8/17.
